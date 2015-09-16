@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>This Should Look More Interesting 
+		<title></title>
+	</head>
+	<body>
+	<p> Here are some penguins </p>
+	<h1> They Look so confused </h1>
+	<img src ="http://www.env3d.org/beta/sites/default/files/tux-400.jpg">
+
+<a href =https://www.codecademy.com/courses/web-beginner-en-HZA3b/2/5#"><img src ="http://cliparts.co/cliparts/kiM/by7/kiMby7AyT.png" /></a>		
+<a href ="http://cliparts.co/cliparts/kiM/by7/kiMby7AyT.png"> Find the penguin here </a>	
+		
+		
+	</body>
+</html>
